@@ -1,0 +1,3 @@
+item-removal:
+  enabled: true
+  despawn-ticks: 6000

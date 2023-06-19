@@ -1,0 +1,12 @@
+name: TPSLimiter
+version: 1.0
+main: com.example.plugin.tomasalias
+api-version: 1.19
+author: Dominik
+description: A plugin that disables entity spawning and AI when the server TPS is below a threshold.
+
+commands:
+  # You can add any commands for the plugin here if needed.
+
+permissions:
+  # You can add any permissions for the plugin here if needed.
